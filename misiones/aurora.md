@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Comida
+- Paso 2: Agua
+- Paso 3: Sobrevivir
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
