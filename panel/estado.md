@@ -2,9 +2,9 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+**ESTADO DE LA MISIÓN: PERMISO DENEGADO**
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+**Mensaje a la tripulación:** No es posible aterrizar en este momento.
 
 ## Decisiones de los equipos
 
