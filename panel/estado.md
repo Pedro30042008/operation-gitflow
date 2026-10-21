@@ -2,9 +2,9 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PERMISO DENEGADO**
+**ESTADO DE LA MISIÓN: LANZAMIENTO LISTO POR AURORA**
 
-**Mensaje a la tripulación:** No es posible aterrizar en este momento.
+**Mensaje a la tripulación:** SI ESTAMOS LISTOS
 
 ## Decisiones de los equipos
 
